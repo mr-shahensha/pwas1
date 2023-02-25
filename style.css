@@ -122,3 +122,7 @@ button:hover{
     align-items: center;
     gap: 30px;
   }
+
+  @media(max-width:700px){
+    
+  }
